@@ -1,2 +1,2 @@
 # Linear Regression 
- Linear Regression / pandas
+ Linear Regression code with pandas
